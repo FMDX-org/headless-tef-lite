@@ -2,6 +2,8 @@
 
 USB radio tuner based on the STM32F072 MCU and TEF668X/V205 RF receiver with digital audio output over USB. This is the lite variant of our [Headless USB tuner](https://github.com/FMDX-org/tef668x-headless-usb-tuner). It is more compact, with a simplified RF input path and only one antenna input for AM/FM.
 
+This design is optimized as a cost-efficient solution tailored for automated PCBA (Printed Circuit Board Assembly) processes.
+
 Copyright (C) 2025 FMDX.org
 
 You may redistribute and modify this source under the terms of the CERN-OHL-W v2 (see LICENSE file).
